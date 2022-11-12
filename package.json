@@ -1,0 +1,15 @@
+{
+  "name": "scrapgsmarena",
+  "version": "1.0.0",
+  "description": "Busco información de dispositivos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "nodejs-web-scraper": "^5.0.0"
+  }
+}
